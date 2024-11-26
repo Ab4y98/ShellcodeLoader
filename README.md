@@ -1,8 +1,4 @@
-**
-
-## ShellcodeLoader
-
-**
+# ShellcodeLoader
 
 First run the XOR.exe with the shellcode payload and a key.
 
